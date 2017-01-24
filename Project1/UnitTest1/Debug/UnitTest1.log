@@ -1,0 +1,4 @@
+﻿  unittest1.cpp
+c:\users\админ\documents\visual studio 2015\projects\project1\unittest1\unittest1.cpp(18): error C2014: preprocessor command must start as first nonwhite space
+c:\users\админ\documents\visual studio 2015\projects\project1\unittest1\unittest1.cpp(40): error C3861: 'bubbleSort': identifier not found
+c:\users\админ\documents\visual studio 2015\projects\project1\unittest1\unittest1.cpp(56): error C3861: 'bubbleSort': identifier not found
